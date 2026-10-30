@@ -10,13 +10,13 @@
 
 </div>
 
-> Pipeline de Engenharia de Dados desenvolvido para extrair, transformar e carregar (ETL) dados de despesas públicas do Cartão de Pagamento do Governo Federal (CPGF), automatizando o fluxo de auditoria e análise financeira.
+> Pipeline de Engenharia de Dados para fundamentos do processo de extrair, transformar e carregar (ETL) dados de despesas públicas do Cartão de Pagamento do Governo Federal (CPGF).
 
 ---
 
 ## 🎯 Sobre o Projeto
 
-Este projeto tem como objetivo automatizar o processamento de dados abertos governamentais, eliminando o trabalho manual de auditoria em planilhas e centralizando as informações em um banco de dados relacional robusto. A solução simula um cenário real de engenharia de dados aplicada ao setor público, aplicando boas práticas de modelagem, tratamento de dados sensíveis e versionamento de código.
+Este projeto tem como objetivo aprendizado dos fundamentos do processamento de dados abertos governamentais, eliminando o trabalho manual de auditoria em planilhas e centralizando as informações em um banco de dados relacional robusto. A solução simula um cenário simples de engenharia de dados aplicada ao setor público, aplicando boas práticas de modelagem, tratamento de dados sensíveis e versionamento de código.
 
 ---
 
